@@ -16,7 +16,7 @@ const BrowsePage = () => {
   const [editingMovie, setEditingMovie] = useState(null);
   const [showDeleteConfirm, setShowDeleteConfirm] = useState(null);
 
-  // Enhanced SAMPLE MOVIE DATA with consistent image sizes
+  // Enhanced SAMPLE MOVIE DATA with consistent image sizes data  main 
   const sampleMovies = [
     {
       _id: '1',
